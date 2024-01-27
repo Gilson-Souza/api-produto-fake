@@ -1,0 +1,149 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "PlayStation 5",
+        "price": 499.99,
+        "description": "A poderosa nova geração de console de videogame.",
+        "category": "Console",
+        "url": "https://cdn.dooca.store/39545/products/7382b8f43b7acd19c168f058faebc7c0_620x620+fill_ffffff.jpg?v=1661976875"
+      },
+      {
+        "id": 2,
+        "name": "Xbox Series X",
+        "price": 549.99,
+        "description": "O console de última geração da Microsoft com poder de processamento impressionante.",
+        "category": "Console",
+        "url": "https://d1sfzvg6s5tf2e.cloudfront.net/Custom/Content/Products/60/88/6088_video-game-xbox-series-x-1tb-ssd-imp_z1_638213015243956001.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Nintendo Switch",
+        "price": 299.99,
+        "description": "Um console híbrido que oferece diversão em casa e em movimento.",
+        "category": "Console",
+        "url": "https://infostore.vteximg.com.br/arquivos/ids/231874-1000-1000/2.jpg?v=637792403031870000"
+      },
+      {
+        "id": 4,
+        "name": "Jogo Star Wars: Jedi Fallen Order",
+        "price": 59.99,
+        "description": "Aventure-se na galáxia de Star Wars como um Jedi em treinamento.",
+        "category": "Star Wars",
+        "url": "https://cdn.wccftech.com/wp-content/uploads/2019/11/Star-Wars-Jedi-Fallen-Order.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Figura colecionável do Darth Vader",
+        "price": 29.99,
+        "description": "Uma incrível figura do lendário vilão de Star Wars.",
+        "category": "Star Wars",
+        "url": "https://rihappy.vtexassets.com/arquivos/ids/1263277/Figura-Articulada---25-cm---Disney---Star-Wars-Oly-E5---Darth-Vader---Hasbro-1.jpg?v=637523715041300000"
+      },
+      {
+        "id": 6,
+        "name": "Camiseta Star Wars",
+        "price": 19.99,
+        "description": "Mostre seu amor por Star Wars com esta camiseta estilizada.",
+        "category": "Star Wars",
+        "url": "https://queroestampa.com.br/wp-content/uploads/2016/07/CI0003_Star.Wars_.camisa_v1b.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Teclado Gamer",
+        "price": 89.99,
+        "description": "Um teclado projetado para gamers que desejam desempenho superior.",
+        "category": "Diversos",
+        "url": "https://m.media-amazon.com/images/I/61LIv20S+xL._AC_SX522_.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Fone de Ouvido Bluetooth",
+        "price": 49.99,
+        "description": "Desfrute de áudio sem fio de alta qualidade com este fone de ouvido.",
+        "category": "Diversos",
+        "url": "https://a-static.mlcdn.com.br/1500x1500/fone-de-ouvido-bluetooth-philips-upbeat-shb2505bk-00-intra-auricular-com-microfone-preto/magazineluiza/224733400/cbfa53baada1b8cf16299053df45de50.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Mochila Gamer",
+        "price": 39.99,
+        "description": "Transporte seu equipamento gamer com estilo e praticidade.",
+        "category": "Diversos",
+        "url": "https://http2.mlstatic.com/D_NQ_NP_822396-MLB46635805687_072021-O.webp"
+      },
+      {
+        "id": 10,
+        "name": "Smartphone Android",
+        "price": 299.99,
+        "description": "Um smartphone poderoso com sistema operacional Android.",
+        "category": "Diversos",
+        "url": "https://th.bing.com/th/id/OIP.pWBuLBi5GGmMmDeaeDsSggHaGt?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 11,
+        "name": "Smartwatch",
+        "price": 129.99,
+        "description": "Um relógio inteligente com recursos avançados de monitoramento.",
+        "category": "Diversos",
+        "url": "https://m.media-amazon.com/images/I/31ZDbtQc69L.__AC_SY300_SX300_QL70_ML2_.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Câmera DSLR",
+        "price": 699.99,
+        "description": "Uma câmera digital de lente única para fotografia profissional.",
+        "category": "Diversos",
+        "url": "https://files.tecnoblog.net/wp-content/uploads/2023/05/camera-dslr-canon-1-1060x596.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Baby Yoda que fala",
+        "price": 79.99,
+        "description": "O The Child que fala é a pelúcia ideal para os fãs de The Mandalorian. O item é inspirado na espécie alienígena do Mestre Yoda e carinhosamente apelidado como Baby Yoda, que aparece na produção da Disney. Ótima dica de presente também para a criançada que comemora o Star Wars Day.",
+        "category": "Star Wars",
+        "url": "https://th.bing.com/th/id/OIP.rJWFg5JwJQ8dwdMrQegdWAHaH7?pid=ImgDet&w=474&h=507&rs=1"
+      },
+      {
+        "id": 14,
+        "name": "Super Nintendo",
+        "price": 199.99,
+        "description": "Ano de lançamento: 1990 Unidades vendidas mundialmente: 49 milhões Jogos notáveis: Super Mario World, Donkey Kong Country, Street Fighter II.",
+        "category": "Console",
+        "url": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_11_snes-20130115153736.jpg?quality=70&strip=info&w=920"
+      },
+      {
+        "id": 15,
+        "name": "PlayStation 2 (Sony)",
+        "price": 39.99,
+        "description": "Ano de lançamento: 2000 Unidades vendidas mundialmente: 153 milhões Jogos notáveis: GTA San Andreas, Final Fantasy X, Shadow of the Colossus.",
+        "category": "Console",
+        "url": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_01_ps2-201301151546172.jpg?quality=70&strip=info&w=920"
+      },
+      {
+        "id": 16,
+        "name": "Funko POP C3PO Concept",
+        "price": 79.99,
+        "description": "Se você for uma pessoa adepta dos Funko POP, este C3PO vai ficar ótimo na sua estante. Afinal, o item faz parte da linha Concept Series, que homenageia as artes conceituais de Ralph McQuarrie na trilogia original de Star Wars.",
+        "category": "Star Wars",
+        "url": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/05/funko_c3po_itens_de_star_wars_nerdbunker__n1142b2.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Atari 2600 (Atari)",
+        "price": 199.99,
+        "description": "Ano de lançamento: 1977 Unidades vendidas mundialmente: 30 milhões Jogos notáveis: Pac-Man, Pitfall!, Space Invaders.",
+        "category": "Console",
+        "url": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_14_atari_2600-20130115153201.jpg?quality=70&strip=info&w=920"
+      },
+      {
+        "id": 18,
+        "name": "Star Wars – Dark Edition ",
+        "price": 39.99,
+        "description": "Para começar em grande estilo, a bela Dark Edition da Darkside vai te levar de volta a trilogia original de Star Wars. Em capa dura, o livro contém os enredos dos filmes clássicos. A obra é ideal para aqueles que buscam entender um pouco mais da criação de George Lucas e querem um belo item para ter na estante!",
+        "category": "Star Wars",
+        "url": "https://uploads.jovemnerd.com.br/wp-content/uploads/2021/09/dark-edition-itens-de-Star-Wars-para-voc%C3%AA-ter-em-casa-nerdbunker-760x760.jpg"
+      }
+    ]
+  }
+  
